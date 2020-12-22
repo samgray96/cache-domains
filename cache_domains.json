@@ -131,6 +131,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "eset",
+			"description": "CDN for eset",
+			"domain_files": ["eset.txt"]
 		}
 	]
 }
