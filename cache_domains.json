@@ -136,6 +136,11 @@
 			"name": "eset",
 			"description": "CDN for eset",
 			"domain_files": ["eset.txt"]
+		},
+		{
+			"name": "dell",
+			"description": "CDN for dell",
+			"domain_files": ["dell.txt"]
 		}
 	]
 }
